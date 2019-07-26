@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "UFAL.Observer.Main",
+            "projectName": "Padroes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa",
+            "request": "launch",
+            "mainClass": "UFAL.Programa",
+            "projectName": "Banco"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa",
+            "request": "launch",
+            "mainClass": "UFAL.Programa",
+            "projectName": "Listas"
+        }
+    ]
+}

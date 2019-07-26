@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Guilherme\\Documents\\VS Code"
+		}
+	],
+	"settings": {
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.dependency.packagePresentation": "flat"
+	}
+}
